@@ -1,0 +1,17 @@
+{
+ "name": {
+  "message": "Little Alchemy Unblocked"
+ },
+ "description": {
+  "message": "Little Alchemy Unblocked - start with four basic items and use them to find dinosaurs, unicorns and spaceships!"
+ },
+ "play": {
+  "message": "Play"
+ },
+ "got_it": {
+  "message": "OK, got it"
+ },
+ "installed": {
+  "message": "Game extension is installed"
+ }
+}
